@@ -1,3 +1,5 @@
+You can watch the real life demonstration here: https://www.youtube.com/shorts/58peG8V484E
+
 An advanced Proportional-Integral-Derivative (PID) closed-loop control system developed in TRIK Studio for high-precision autonomous line following using twin optical reflectance sensors.
 
 ---
@@ -214,5 +216,3 @@ The output correction $u$ modifies base speed (30%) across both drive wheels:
 
 
 * **Controlled Saturation:** Limiting steering $u$ to $\pm30$ ensures individual motor power remains bounded between $0\%$ and $60\%$, keeping forward momentum steady through tight turns without triggering motor reversals.
-You can watch the real life demonstration here: 
-https://www.youtube.com/shorts/58peG8V484E
